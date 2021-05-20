@@ -1,0 +1,11 @@
+{
+  "Books": [
+    { "id": 1, "title": "Book A", "author_id": 1, "published_on": 1621516668 },
+    { "id": 2, "title": "Book B", "author_id": 2, "published_on": 1621516668 },
+    { "id": 3, "title": "Book C", "author_id": 1, "published_on": 1621516668 }
+  ],
+  "Authors": [
+    { "id": 1, "firstname": "Adam", "lastname": "Smiths" },
+    { "id": 2, "firstname": "Beavery", "lastname": "Halls" }
+  ]
+}
